@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, I am Lakshya Khandelwal.
 
-🔭 I'm currently working on deepfake detection and Hindi text-to-speech generation<br>
 👯 I'm looking to collaborate on AI and machine learning projects<br>
 🤝 I'm looking for help with advanced NLP techniques<br>
 🌱 I'm currently learning deep learning and generative AI<br>
