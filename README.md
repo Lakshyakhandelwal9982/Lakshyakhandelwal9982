@@ -10,7 +10,7 @@ Hi, I am Lakshya Khandelwal.
 <div align="center">
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-khandelwal-59a298236/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](\https://www.linkedin.com/in/lakshya-khandelwal-73338b243/) 
 
 ![](https://leetcard.jacoblin.cool/namankhandelwal1309?ext=heatmap)
 
